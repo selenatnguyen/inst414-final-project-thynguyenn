@@ -1,0 +1,12 @@
+﻿Attribute Name,Description,Data Type,Example Value,Unit
+City Name,Name of the city in Orange County,String,Anaheim,City
+Total Renter Units,Total renter-occupied housing units in the city,Integer,52927,Count
+Total Housing Units,Total number of housing units in the city,Integer,111094,Count
+Renter-Occupied Units,Number of housing units that are renter-occupied,Integer,52927,Count
+Owner-Occupied Units,Number of housing units that are owner-occupied,Integer,40945,Count
+Average Renter Household Size,Average household size for renter-occupied units,Float,3.84,Persons
+Total Population (Renter Homes),Estimated total population living in renter-occupied housing units,Integer,179000,Persons
+Population in 1-Person Homes,Number of individuals living alone in renter-occupied units,Integer,32478,Persons
+Median Gross Rent,Median monthly gross rent in the city,Integer,1740,USD
+Households Spending >35% Income on Rent,Number of households spending more than 35% of income on rent,Integer,16234,Count
+Median Year Housing Built,Median year housing units were built,Integer,1976,Year
